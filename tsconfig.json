@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "module": "node16",
+      "lib": ["es2015"],
+
+      "types": ["vitest/globals"],
+      "strict": true,
+      "noEmit": true
+    }
+  }
